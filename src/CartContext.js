@@ -20,7 +20,6 @@ export function CartProvider({children}) {
         }
         return quantity;
     }
-    
 
     const contextValue = {
     items: cartProducts,
