@@ -2,19 +2,19 @@ const productsArray = [
     {
         id:"1",
         title:"coffe",
-        price:1.99
+        price:200.99
 
     },
     {
         id:"2",
         title:"sunglasses",
-        price:2.99
+        price:300.99
 
     },
     {
         id:"3",
         title:"camera",
-        price:23.99
+        price:23000.99
 
     },
 ]
